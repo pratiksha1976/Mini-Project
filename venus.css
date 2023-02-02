@@ -1,0 +1,33 @@
+.maindiv{
+	background-color: crimson;
+	padding: 5px;
+}
+
+.brandname{
+
+	background-color: crimson;
+	color: white;
+
+}
+.well{
+	background-color: white;
+}
+.cartspan{
+
+	float: right;
+	color: crimson;
+	padding: 5px;
+	font-size: 23px;
+	text-align: center;
+
+}
+.cartbutton {
+	width: 60%;
+	background-color: gold;
+	border-radius: 3px;
+	padding: 3px;
+	border: none;
+	font-size: 17px;
+	font-weight: bold;
+
+}
